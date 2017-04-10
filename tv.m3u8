@@ -167,3 +167,124 @@ http://125.88.92.166:30001/PLTV/88888956/224/3221227716/1.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221225934/index.m3u8
 #EXTINF:-1,÷ÿ«ÏŒ¿ ”
 http://125.88.92.166:30001/PLTV/88888956/224/3221227690/1.m3u8
+#EXTM3U
+# éžå•†æ¥­æ€§-ç›¸åŒæ–¹å¼åˆ†äº« 4.0 åœ‹éš› (CC BY-NC-SA 4.0)
+# ä¸åˆ†æ¬¡åºæŽ’åˆ—
+# æœ‰éƒ¨ä»½ç›´æ’­å…§å®¹ä¸€æ¨£ï¼Œéƒ¨ä»½å…§å®¹æ²’æœ‰å­—å¹•
+# è«‹å‹¿æ›´æ”¹ä»¥ä¸‹å…§å®¹ï¼Œè‹¥å°Žè‡´æ›´æ”¹å…§å®¹æˆ–å…§å®¹æå£žï¼Œæ•ä¸è² è²¬
+
+#EXTINF:-1, --- æœ€å¾Œæ›´æ–°: 27/02/2017 ---
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, -----ä¸æä¾›æ›´æ–°-----
+http://youtube.com
+#EXTINF:-1, è‹¥è¦åˆ†äº« è«‹è¨»æ˜Žã€TharinTMã€‘æˆ–åŽŸå‡ºè™•
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1 group-title="æ¨‚è¦–",----- æ¨‚è¦–(é¦™æ¸¯HK/CN)List -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (å¯ç”¨)æ¨‚è¦–é›»å½±4K - 1 (ç²¤èªž/å»£æ±è©±|æ™®é€šè©±/åœ‹èªž - ç¹/ç°¡[æ®˜]ä¸­å­—)
+http://bit.ly/Letv-4K
+#EXTINF:-1, (å¯ç”¨)æ¨‚è¦–é›»å½±720p (æ™®é€šè©±/åœ‹èªž - ç¹/ç°¡[æ®˜]ä¸­å­—)
+http://bit.ly/Letv-720p
+#EXTINF:-1, æ¨‚è¦–é›»å½± - æœªçŸ¥ (ç²¤/å»£æ±è©±)
+http://bit.ly/canton-letv
+
+#EXTINF:-1 group-title="æ¨‚è¦–",----- æ¨‚è¦–(ä¸­åœ‹å¤§é™¸CN)List -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (å¯ç”¨)æ¨‚è¦–ä¸­åœ‹/å¤§é™¸ç”·æ­Œæ‰‹
+http://bit.ly/Letv-MB
+#EXTINF:-1, (å¯ç”¨)æ¨‚è¦–ä¸­åœ‹/å¤§é™¸å¥³æ­Œæ‰‹
+http://bit.ly/Letv-MG
+
+#EXTINF:-1 group-title="æœ‰ç·š",-----æœ‰ç·š(HK)List-----Tharin
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (å¯ç”¨)æœ‰ç·šæ–°èžå°HD
+http://bit.ly/HKC-News
+
+# é›»è¦–ç›´æ’­ - è‹¥è¦åˆ†äº« è«‹è¨»æ˜Žã€TharinTMã€‘æˆ–åŽŸå‡ºè™•
+
+#EXTINF:-1 group-title="é›»è¦–",----- é¦™æ¸¯(HK)é›»è¦–Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (å¯ç”¨)é¦™æ¸¯é›»è¦– - 31å°
+http://bit.ly/RTHK31
+#EXTINF:-1, (å¯ç”¨)é¦™æ¸¯é›»è¦– - 32å°
+http://bit.ly/RTHK32
+#EXTINF:-1, (å¯ç”¨)é¦™æ¸¯é›»è¦– - TVBç¿¡ç¿ å° (ä¿¡è™Ÿä¸ç©©å®š)
+http://bit.ly/CCTVBCN
+#EXTINF:-1, (å¯ç”¨)é¦™æ¸¯é›»è¦– - TVBå¨›æ¨‚æ–°èžå°
+http://bit.ly/TVB-Fun
+
+#EXTINF:-1 group-title="é›»è¦–",----- æ¾³é–€(MO)é›»è¦–Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (å¯ç”¨)æ¾³é–€Macau
+http://bit.ly/Macau-TV
+#EXTINF:-1, (å¯ç”¨)æ¾³è¦–æ¾³é–€
+http://bit.ly/tdm-mo
+#EXTINF:-1, (å¯ç”¨)æ¾³é–€è“®èŠ±
+http://bit.ly/Mo-F
+
+#EXTINF:-1 group-title="é›»è¦–",-----å°ç£(TW)é›»è¦–Live-----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (å¯ç”¨)æ°‘è¦–æ–°èžå°
+http://bit.ly/TW-News
+
+#EXTINF:-1 group-title="é›»è¦–",----- éŸ“åœ‹(Kor)é›»è¦–Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (å¯ç”¨)KoréŸ³æ¨‚
+http://bit.ly/Kor-Music
+
+#EXTINF:-1 group-title="é›»è¦–",----- é³³å‡°(CN)é›»è¦–Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (å¯ç”¨)é³³å‡°é¦™æ¸¯
+http://bit.ly/CNH-FK3
+#EXTINF:-1, (å¯ç”¨)é³³å‡°è³‡è¨Š (HD)
+http://bit.ly/CN-FK2
+#EXTINF:-1, (å¯ç”¨)é³³å‡° (HD)
+http://bit.ly/CN-FK1
+
+#EXTINF:-1, å¿…é ˆæ’ä¸Š Lanç·š(æœ‰æ•ˆç¶²çµ¡) æ‰èƒ½æ’­æ”¾
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, å¦‚é»‘å±é‡æ–°é»žæ“Šä¸€æ¬¡ æˆ– é‡æ–°é–‹å•Ÿ
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, éƒ¨ä»½å…§å®¹å¯èƒ½æœƒç„¡æ³•é€£æŽ¥ç›´æ’­æä¾›å•†
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, éžå•†æ¥­æ€§-ç›¸åŒæ–¹å¼åˆ†äº« 4.0 åœ‹éš› (CC BY-NC-SA 4.0)
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, ---å…¶ä»–å…¬å‘Šå…§å®¹ã€€27/02/2017---
+http://youtube.com
+#EXTINF:-1, PayPal Donate(è´ŠåŠ©)
+https://www.paypal.me/TharinM
+#EXTINF:-1, tharin.tm@outlook.com (Friend Payment Only)
+tharin.tm@outlook.com
+#EXTINF:-1, Donate HKD $5~10ä»¥ä¸Š (åªå—æœ‹å‹æ–¹å¼ç™¼å‡ºæ¬¾é …)
+tharin.tm@outlook.com
+#EXTINF:-1, ä»¥æœ‹å‹æ–¹å¼ç™¼å‡ºæ¬¾é …(è´ŠåŠ©)
+tharin.tm@outlook.com
+#EXTINF:-1, åœ¨Donateèªªæ˜Žä¸­è¼¸å…¥ã€Donate: Kodi IPTV & Yournameã€‘
+tharin.tm@outlook.com
+#EXTINF:-1, è´ŠåŠ©å¾Œä½¿ç”¨Hangoutsè¯çµ¡
+http://youtube.com
+
+#EXTINF:-1, â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»
+http://youtube.com
+#EXTINF:-1, è©²æ–‡ä»¶ä¼ºæœå™¨æ˜¯ã€å…è²»ã€‘ï¼Œåœ¨æŸå¤©URLé€£çµæœƒå¤±æ•ˆ
+http://youtube.com
+#EXTINF:-1, ç›®å‰å…è²»ä¼ºæœå™¨ï¼šè‹±åœ‹
+http://youtube.com
+#EXTINF:-1, å¯èƒ½å› ç¶²çµ¡é—œä¿‚ï¼Œéƒ¨ä»½åœ°å€ç„¡æ³•ä½¿ç”¨è©²æª”æ¡ˆ
+http://youtube.com
+#EXTINF:-1, -â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»â€»-
+http://youtube.com
+
+# ç”± Tharin ç¨è‡ªç·¨åˆ¶åŠæŽ’åˆ—ï¼Œæœ‰é—œä»¥ä¸Šä¾†æºï¼šGoogle Search
+# éžå•†æ¥­æ€§-ç›¸åŒæ–¹å¼åˆ†äº« 4.0 åœ‹éš› (CC BY-NC-SA 4.0)
+# è‹¥è¦åˆ†äº« è«‹è¨»æ˜Žã€TharinTMã€‘æˆ–åŽŸå‡ºè™•
+# å‡ºè™•: Tharin Youtube Channel : https://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+# æ­¡è¿Žè¨‚é–± Tharin Youtube Channelï¼Œæ­¤å¤–æŒ‰ä¸‹è¨‚é–±ã€å³é¢çš„æç¤ºé˜ã€‘
