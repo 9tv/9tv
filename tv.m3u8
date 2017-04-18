@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,翡翠台HD
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:-1,翡翠台HD
+http://live.3xgd.com/VJTVPlayer.swf?src=http://61.164.209.109:5021/live/362&usep2p=0&showTime
+#EXTINF:-1,TVB-明珠台
+http://live.3xgd.com/VJTVPlayer.swf?src=http://61.164.209.109:5021/live/367&usep2p=0&showTime=0
+#EXTINF:-1,凤凰卫视中文台
+http://112.17.0.10:8085/ysten-business/live/fhchinese/yst.m3u8
+#EXTINF:-1,凤凰卫视中文台HD
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
 #EXTINF:-1,有線新聞 HD
 http://bit.ly/HKC-News
 #EXTINF:-1,有線18
