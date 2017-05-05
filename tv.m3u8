@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Now TV
-http://c.q8kk.com/qtv.php?id=nowtv
-#EXTINF:-1,翡翠台
-http://a.q8kk.com/g1.php?id=fct
-#EXTINF:-1,TVB8
-http://a.q8kk.com/g1.php?id=tvb8
-#EXTINF:-1,J2
-http://a.q8kk.com/g1.php?id=j2
-#EXTINF:-1,J5
-http://a.q8kk.com/g1.php?id=j5
-#EXTINF:-1,互動新聞
-http://a.q8kk.com/g1.php?id=hdxwhd
-#EXTINF:-1,明珠台
-http://a.q8kk.com/g1.php?id=mzt
 #EXTINF:-1,AXN
 http://204.45.80.190/live/060.m3u8
 #EXTINF:-1,CN卡通
