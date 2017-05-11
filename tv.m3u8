@@ -11,6 +11,8 @@ http://a.q8kk.com/g1.php?id=hdxwhd
 http://a.q8kk.com/g1.php?id=mzt
 #EXTINF:-1,TVB8
 http://a.q8kk.com/g1.php?id=tvb8
+#EXTINF:-1,HKTV
+http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=pc&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1920&net=&udid=a42bc0b5ac8dc21cb14f66924a25f468&ts=1490781543834&s=946bb57f716877923e428874131ede7a
 #EXTINF:-1,AXN 標清
 http://kb1.ottclub.info:443/fmts/n677.stream/playlist.m3u8?a=58f1ffd8&b=_ApCKfAbEA8ZOZwGcsxUEQ
 #EXTINF:-1,CINEMAX 標清
